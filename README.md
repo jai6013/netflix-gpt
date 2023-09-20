@@ -17,4 +17,4 @@ Configured tailwind css
       - Movie List * n
 - netflixGpt
   - Search bar
-  - Movie Suggestions
+  - Movie Suggestions# netflix-gpt
